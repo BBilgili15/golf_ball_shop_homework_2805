@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+/* My Master CSS */
+
+html {
+  margin: none;
+  box-sizing: border-box;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+#nav-item {
+  text-decoration: none;
+}
+
+.ball-image {
+  height: 100px;
+}
